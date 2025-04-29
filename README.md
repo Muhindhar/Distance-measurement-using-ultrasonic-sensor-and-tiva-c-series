@@ -38,9 +38,14 @@ This project demonstrates how to use the **HC-SR04 ultrasonic sensor** with the 
 > **Note:** ECHO pin outputs 5V, but TM4C123G supports 3.3V logic. Use a voltage divider (2kΩ + 1kΩ) to step down safely.
 
 ---
-
-## 🖥️ Output Example (UART Serial Monitor)
+ 🖥️ Output Example (UART Serial Monitor)
 ```bash
+
+
 Distance: 22 cm
 Distance: 23 cm
 Distance: 21 cm
+👤 Author
+Muhindhar
+📍 [Salem, Tamil Nadu]
+💼 LinkedIn | 🛠️ GitHub
